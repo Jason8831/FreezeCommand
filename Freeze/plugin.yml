@@ -1,0 +1,10 @@
+name: freeze
+version: 1.0.0
+api: 4.0.0
+main: Jason8831\Freeze\Main
+author: Jason8831
+permissions:
+  unfreeze.admin:
+    default: op
+  freeze.admin:
+    default: op

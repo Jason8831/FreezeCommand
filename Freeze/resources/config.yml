@@ -1,0 +1,7 @@
+NoPermssionCommands: "§f[§l§4ERROR§r§f]: vous n'avez pas la permission d'éxécuter cette commande"
+NoMentionPlayerFreeze: "§f[§l§4ERROR§r§f]: vous devez faire §l§4/freeze [joueur]"
+NoMentionPlayerUnFreeze: "§f[§l§4ERROR§r§f]: vous devez faire §l§4/unfreeze [joueur]"
+FreezeMessageTarget: "§f[§l§4FREEZE§r§f]: vous venez d'être freeze par §l§4{staff}" #VARIABLE | {player} {staff}
+FreezeMessageStaff: "§f[§l§4FREEZE§r§f]: vous avez bien freeze §l§4{player}" #VARIABLE | {player} {staff}
+UnFreezeMessageTarget: "§f[§l§4FREEZE§r§f]: vous venez d'être unfreeze par §l§4{staff}" #VARIABLE | {player} {staff}
+UnFreezeMessageStaff: "§f[§l§4FREEZE§r§f]: vous avez bien unfreeze §l§4{player}" #VARIABLE | {player} {staff}
